@@ -1,0 +1,17 @@
+.imgloading{
+    width: 100%;
+}
+.clearfix{
+    margin-top: 0.3rem;
+    padding: 30px;
+    background: #fff;
+    width: 100%;
+    font-weight: 300;
+    line-height: 1.8;
+    color: #222;
+}
+.position{
+    position: absolute;
+    left: 45%;
+
+}
